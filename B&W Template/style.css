@@ -1,0 +1,14 @@
+body{
+    font-size: 14px;
+    
+}
+.bottom{
+    display: inline-flex;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.fist-h{
+    font-size: 44px;
+    font-family: Helvetica, sans-serif;
+}
